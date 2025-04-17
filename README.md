@@ -131,8 +131,8 @@ query {
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/graphql-bookstore.git
-   cd graphql-bookstore
+   https://github.com/TusharAbhinav/graphql-server.git
+   cd graphql-server
    ```
 
 2. Install dependencies:
